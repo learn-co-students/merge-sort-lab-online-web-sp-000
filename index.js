@@ -25,7 +25,6 @@ function mergeSort (a1){
 }
 
 function merge(a1, a2){
-  debugger;
   const target = []
 
   while (a1.length > 0 || a2.length > 0){
